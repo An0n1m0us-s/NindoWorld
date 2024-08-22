@@ -1,0 +1,1 @@
+java -Xmx14G -jar minecraft_server.1.12.2.jar -nogui
